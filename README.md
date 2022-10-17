@@ -36,11 +36,7 @@
 
 - ### <b> Back-end: </b>
 
-  - <code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NodeJs"/></code> <code><img height="25" src="https://img.shields.io/badge/Express-9f8cdb?style=flat&logo=Express" alt="Express"/></code>
-
-- ### <b> DataBase: </b>
-
-  - <code><img height="25" src="https://img.shields.io/badge/MySQL-000000?style=flat&logo=MySQL" alt="MySQL"/></code><code><img height="25" src="https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb" alt="MongoDB"/></code><code><img height="25" src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=PostgreSQL" alt="PostgreSQL"/></code>
+  - <code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NodeJs"/></code>
 
 - ### <b> Hostings: </b>
 
@@ -54,6 +50,6 @@
 <div align="left">
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekAbduljabbor&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OybekAbduljabbor&layout=compact&theme=dracula&hide_border=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarengineer&layout=compact&theme=dracula&hide_border=true">
 
 </div>
