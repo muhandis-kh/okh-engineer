@@ -49,7 +49,7 @@
 
 <div align="left">
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=OybekAbduljabbor&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=umarengineer&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarengineer&layout=compact&theme=dracula&hide_border=true">
 
 </div>
