@@ -1,7 +1,7 @@
 # 💫 About Me:
-Hello, I am Obidxon Khojimirzayev! <br>
-I am Python developer <br>
-My strength is that I can look up almost any information when I need it 😉
+👋 Hello, I am Obidxon Khojimirzayev! <br>
+👨‍💻 I am Python developer <br>
+🦾 My strength is that I can look up almost any information when I need it 😉
 
 
 ## 🌐 Socials:
