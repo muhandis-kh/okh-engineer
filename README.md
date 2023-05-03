@@ -1,57 +1,27 @@
-# <b> Hello, I am Obidxon Khojimirzayev! </b>
-
-## <b> 💬 About me:</b>
-
-<p align="left">
-
-  <a href="https://www.instagram.com/khojimirzayev/">
-    <code><img height="25" src="https://img.shields.io/badge/Instagram-d9408a?  style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/gabrieltonhatti/" alt="Instagram"/></code>
-  </a>
-  <a href="https://www.linkedin.com/in/khojimirzayev/" alt="Linkedin">
-    <code><img height="25" src="https://img.shields.io/badge/Linkedin-264de4?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-tonhatti-2480561b9/" alt="Linkedin"/></code>
-  </a>
-  <a href="https://twitter.com/khojimirzayev" alt="Twitter">
-    <code><img height="25" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Facebook"/></code>
-  </a>
-  <a href="mailto:ohojimirzayev@gmail.com" alt="Gmail">
-    <code><img height="25" src="https://img.shields.io/badge/Gmail-FF0000?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></code>
-  </a>
-
-</p>
-
-## 📚 Experiences:
-
-<p align="left">
-📌 I am a Python programmer <br/>
-📌 I am a Python programmer <br/>
+# 💫 About Me:
+Hello, I am Obidxon Khojimirzayev!
 
 
-## <b> 📖 Knowledge:</b>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/umar_engine8r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/khojimirzayev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@khojimirzayev) 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=okh-engineer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=okh-engineer&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=okh-engineer&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- ### <b> Front-end: </b>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=okh-engineer&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-  - <code><img height="25" src="https://img.shields.io/badge/CSS3-264de4?style=flat&logo=css3&logoColor=white" alt="CSS3"/></code> <code><img height="25" src="https://img.shields.io/badge/HTML5-dd4b25?style=flat&logo=html5&logoColor=white" alt="HTML5"/></code> <code><img height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></code> <code><img height="25" src="https://img.shields.io/badge/Bootstrap-ffffff?style=flat&logo=bootstrap" alt="Bootstrap"/></code><code><img height="25" src="https://img.shields.io/badge/React-000000?style=flat&logo=React" alt="React"/></code> </code><code><img height="25"  style="background-color: blue" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" alt="Redux"/></code>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=@khojimirzayev)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-- ### <b> Back-end: </b>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-  - <code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NodeJs"/></code>
-  - <code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NodeJs"/></code>
-  - <code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NodeJs"/></code>
+---
+[![](https://visitcount.itsvg.in/api?id=okh-engineer&icon=6&color=4)](https://visitcount.itsvg.in)
 
-- ### <b> Hostings: </b>
-
-  - <code><img height="25" src="https://img.shields.io/badge/Netlify-000?style=flat&logo=Netlify" alt="Netlify"/></code><code><img height="25" src="https://img.shields.io/badge/Heroku-000?style=flat&logo=Heroku&logoColor=9f7cbe" alt="Heroku"/></code> <code><img height="25" src="https://img.shields.io/badge/Google Cloud-000?style=flat&logo=GoogleCloud&logoColor=" alt="Google Cloud"/></code>  <code><img height="25" src="https://clients.ahost.uz/templates/allure/img/ahost-white.png" alt="@Host"/></code>
-
-- ### <b> Tools: </b>
-  - <code><img height="25" src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma" alt="Figma"/></code> <code><img height="25" src="https://img.shields.io/badge/-VSCode-171615?style=flat&logo=Visual+Studio+Code&logoColor=white&color=0384fc" alt="Vs"/></code> <code><img height="25" src="https://img.shields.io/badge/-Postman-ffffff?style=flat&logo=Postman" alt="Postman"/></code>
-
-## <b>📈 GitHub Stats:</b>
-
-<div align="left">
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=umarengineer&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarengineer&layout=compact&theme=dracula&hide_border=true">
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
