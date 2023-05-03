@@ -22,8 +22,8 @@
 ## 📚 Experiences:
 
 <p align="left">
-📌 I am a ReactJs and Python programmer <br/>
-📌 I am a junior ReactJS and Python programmer <br/>
+📌 I am a Python programmer <br/>
+📌 I am a Python programmer <br/>
 
 
 ## <b> 📖 Knowledge:</b>
@@ -36,6 +36,8 @@
 
 - ### <b> Back-end: </b>
 
+  - <code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NodeJs"/></code>
+  - <code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NodeJs"/></code>
   - <code><img height="25" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NodeJs"/></code>
 
 - ### <b> Hostings: </b>
