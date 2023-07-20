@@ -1,4 +1,4 @@
-### Hi, I'm Obidkhon 👋
+### Hi, I'm Obidkhon Khojimirzayev [ OKH ] 👋
 
 ```py
 { 
