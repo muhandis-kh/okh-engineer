@@ -8,7 +8,7 @@
 ```
 
 * **Programming languages**: python, JS
-* **Frameworks**: DRF, Django + some experience with React.
+* **Frameworks**: Django, Rest Framework + some experience with React.
 * **Databases**: postgresql.
 * **Testing**: postman, pytest.
 * **Others**: docker, nginx, github actions.
